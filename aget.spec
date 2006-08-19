@@ -22,8 +22,8 @@ via wget; whereas it was downloaded in 3 minutes and 15 seconds via
 aget.
 
 %description -l pl
-Aget to wielow±tkowy akcelerator ¶ciagania plików. G³ówny pomys³
-stoj±cy za tym projektem to stworzenie konsolowego klona progamu
+Aget to wielow±tkowy akcelerator ¶ci±gania plików. G³ówny pomys³
+stoj±cy za tym projektem to stworzenie konsolowego klona programu
 Flashget znanego z systemu Windows.
 
 Testy pokazuj±, ¿e aget spe³nia postawione wymagania, 36 megabajtowy
