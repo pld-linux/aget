@@ -1,6 +1,6 @@
 %define		_version	devel
 Summary:	Aget - a multithreaded download accelerator
-Summary(pl.UTF-8):   Aget - wielowątkowy akcelerator ściągania plików
+Summary(pl.UTF-8):	Aget - wielowątkowy akcelerator ściągania plików
 Name:		aget
 Version:	0.5
 Release:	0.devel.1
